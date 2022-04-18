@@ -3,10 +3,10 @@ Parses DCS module keybinds to create more human readable text files.
 
 This script was originally written to generate CMC files for the CH Control Manager application, but it is still of use to anyone else using DCS. It parses the lua config files that define the keyboard binds for a module and outputs them to a simple name keybind pair in a text document, for example:
 
-/////////////////////////////////////
-// Cheat                                                            
-/////////////////////////////////////
-Active_Pause                                                      HOLD LSHF LWIN PAUSE 
+/////////////////////////////////////     
+// Cheat                                                                 
+/////////////////////////////////////     
+Active_Pause                                                      HOLD LSHF LWIN PAUSE     
 Auto_Start                                                        HOLD LWIN KBHOME     
 Auto_Stop                                                         HOLD LWIN KBEND      
 Recorder_Off                                                      HOLD LALT LSHF r     
